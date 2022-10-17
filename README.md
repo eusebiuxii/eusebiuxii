@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seb</h1>
-<h3 align="center">An aspiring software developer</h3>
+<h1>Hi 👋, I'm Seb</h1>
+<h3>An aspiring software developer</h3><br>
 
 - 🌱 I’m currently studying Computer Science **at the University of Liverpool**
 
