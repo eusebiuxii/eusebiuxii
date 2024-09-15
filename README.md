@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Seb</h1>
 <h3>An aspiring software developer</h3><br>
 
-- 🌱 I’m a recent graduate from ** the University of Liverpool**
+- 🌱 I’m a recent graduate from **the University of Liverpool**
 
 - 👨‍💻 All of my projects are available at [https://eusebiuxii.online/](https://eusebiuxii.online/)
 
